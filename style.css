@@ -295,7 +295,7 @@ header {
     font-size: var(--font-size-m);
 }
 
-/* TESTIMONAILS SECTION STYLING */
+/* TESTIMONIALS SECTION STYLING */
 .testimonials-section {
     padding: 50px 0 100px;
     background-color: var(--light-pink-color);
@@ -636,7 +636,7 @@ header {
         width: 100%
     }
 
-    /* TESTIMONAILS SECTION STYLING */
+    /* TESTIMONIALS SECTION STYLING */
     .testimonials-section .slider-wrapper {
         margin: 0 0 30px;
     }
